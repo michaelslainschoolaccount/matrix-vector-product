@@ -3,7 +3,7 @@
 ## Info
 
 -   Author: Michael Slain
--   Awknowledgements: Mr. Kuszmaul
+-   Acknowledgements: Mr. Kuszmaul
 
 ## Performance Results
 
